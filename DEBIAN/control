@@ -1,0 +1,11 @@
+Package: py-base-gui
+Version: 1.132
+Section: cws
+Priority: optional
+Architecture: all
+Essential: no
+Depends: py-base, python-gtk2
+Installed-Size: 1
+Maintainer: Luke Scott [luke at cronworks dot net]
+Provides: py-base-gui
+Description: [cws] metapackage to install py-base libraries plus GUI dependencies using GTK2
